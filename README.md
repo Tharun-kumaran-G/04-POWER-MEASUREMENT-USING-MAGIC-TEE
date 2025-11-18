@@ -63,9 +63,13 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **F.	Observation: ( Include your own Table relevant to the Experiment)**
 
-**Isolation measurement** (Tabulation)
+**Isolation measurement**
+<img width="919" height="263" alt="image" src="https://github.com/user-attachments/assets/3289cfc4-4fe0-41e5-9f9c-7f9816304222" />
 
-**Measurement of power division** (Tabulation)
+
+**Measurement of power division**
+<img width="861" height="155" alt="image" src="https://github.com/user-attachments/assets/18a3d4b6-3753-4b9e-87e8-fd9e615d30d5" />
+
 
 
 **G.	Analysis of Results: (Write your own)**
@@ -75,12 +79,15 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 **H.	Conclusions: (Write your Own)**
 
 Isolation between E and H arms (dB) = (A1 – A2) dB
-Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
+
+Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB = 716 mV.
 
 **Precautions:**
 
 •	Check the connections before switching on the kit.
+
 •	Connections should be done properly.
+
 •	Observation should be taken properly.
 
-**Result:**
+**Result:** The Magic Tee correctly demonstrated sum and difference power behavior, with higher power at the sum port and reduced or null power at the difference port, validating its proper operation.
